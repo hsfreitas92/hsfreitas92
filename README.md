@@ -1,5 +1,4 @@
 ### Olá! Me chamo Henrique, 🤝
-### Sou um desenvolvedor autodidata e muito detalhista, cuja paixão é aprender, solucionar problemas e otimizar rotinas.
 
 <br/>
 
