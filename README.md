@@ -31,5 +31,11 @@
   <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img align="center" alt="gitHubActions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div><br/>
+</div>
+
+<br/>
+
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/hsfreittas92/count.svg" /> </p>
+
+<br/>
 
